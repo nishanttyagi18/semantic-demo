@@ -99,7 +99,7 @@ Okay, the local part is done. Now head over to your project's repo on gitlab. we
 - Here you have to name your token _(it can be anything)_ and specify the _expiry date_, also give the access to _API_.
 - Copy the token and save it somewhere we will need it.
 - Now, go to your _project settings > CI/CD_
-- In the variable section, add a new variable named with `GITLAB_TOKEN` and paster the token you copied from profile.
+- In the variable section, add a new variable named with `GITLAB_TOKEN` and paste the token you copied from profile.
 - you are all set!.
 
 Make commit and push the code. Don't forget to use `conventional-commit` format. And done!. You can see the new version in the Release section with CHANGELOG.
