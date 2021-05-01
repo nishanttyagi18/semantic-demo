@@ -1,4 +1,4 @@
-## 🚀semantic-release
+## 🚀Setup Semantic-Release in your project
 
 > **Semantic Release** is an Open-Source Software tool for automatically versioning your software with Semantic Versions based on your Git commit messages.
 
